@@ -1,0 +1,15 @@
+* Downloads
+
+1. MySQL: https://dev.mysql.com/downloads/installer/ 
+
+2. PHP: https://windows.php.net/download#php-7.3
+
+3. Composer: https://getcomposer.org/download/
+
+4. Servidor HTTP: https://httpd.apache.org/docs/current/platform/windows.html#down
+
+5. JQuery: https://code.jquery.com/jquery-3.4.1.min.js
+
+6. Bootstrap: https://getbootstrap.com/docs/4.0/getting-started/download/
+
+7. Sublime: https://www.sublimetext.com/3
